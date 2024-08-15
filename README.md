@@ -31,7 +31,8 @@ The project is divided into seven challenges, each focusing on a specific aspect
 5. Calibrate section headers.
 6. Overwrite the PT_NOTE program header.
 7. Execute the injected code.
-8. Evaluation:
+
+# To test the project use make help
 
 
 Additional Notes:
