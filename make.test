@@ -1,0 +1,1 @@
+isos_inject.o: src/isos_inject.c
